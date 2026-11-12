@@ -1,0 +1,24 @@
+# Python environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS files
+.DS_Store
+
+# Face image dataset (sensitive biometric data)
+dataset/
+
+# Trained face recognition models
+model/
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.log
